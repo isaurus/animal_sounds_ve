@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/item_type"
+        android:id="@+id/itemType">
+        <menu >
+            <item
+                android:title="@string/item_wild"
+                android:id="@+id/itemWild"/>
+            <item
+                android:title="@string/item_farm"
+                android:id="@+id/itemFarm"/>
+        </menu>
+    </item>
+    <item
+        android:title="@string/item_exit"
+        android:id="@+id/itemExit"/>
+</menu>

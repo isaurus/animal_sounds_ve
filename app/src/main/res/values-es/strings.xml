@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Animal Sounds VE</string>
+    <string name="item_farm">Granja</string>
+    <string name="item_type">Tipo</string>
+    <string name="item_wild">Salvaje</string>
+    <string name="item_exit">Salir</string>
+    <string name="dialog_title">Salir de la aplicación</string>
+    <string name="btn_yes">Sí</string>
+    <string name="btn_no">No</string>
+    <string name="dialog_subtitle">¿Seguro que deseas salir?</string>
+</resources>

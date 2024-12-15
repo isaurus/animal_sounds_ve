@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animal Sounds VE</string>
+    <string name="item_farm">Farm</string>
+    <string name="item_type">Type</string>
+    <string name="item_wild">Wild</string>
+    <string name="item_exit">Exit</string>
+    <string name="dialog_title">Exit App</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="dialog_subtitle">Are you sure you want to exit?</string>
+</resources>
